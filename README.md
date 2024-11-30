@@ -3,6 +3,12 @@
 
 A collection of Python scripts to automate common tasks. These scripts are designed to make your life easier by automating tedious processes like backing up important data and organizing files.
 
+## Navigation:
+- [Backup to Backblaze](#1-backup-to-backblaze)
+- [File Sorter](#2-file-sorter)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+  
 ## Scripts Included:
 
 ### 1. **Backup to Backblaze**

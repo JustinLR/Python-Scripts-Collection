@@ -6,3 +6,5 @@ File-Sorter/file_sorter.log.2
 File-Sorter/file_sorter.log.1
 build/
 dist/
+__pycache__/
+build/sort_downloads/

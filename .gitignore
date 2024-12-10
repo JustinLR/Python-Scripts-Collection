@@ -1,10 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Backup and temporary files
+*.bak
+*.swp
+*.tmp
+
+# Log files
 **/*.log
 File-Sorter/file_sorter.log.5
 File-Sorter/file_sorter.log.4
 File-Sorter/file_sorter.log.3
 File-Sorter/file_sorter.log.2
 File-Sorter/file_sorter.log.1
-build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Python egg and packaging files
+*.egg
+*.egg-info/
 dist/
-__pycache__/
-build/sort_downloads/
+build/
+*.wheel
+
+# Test results
+.coverage
+.tox/
+.cache/
+*.pytest_cache/
+
+# Logs and debugging files
+*.coverage
+.hypothesis/
+
+# Application-specific folders (e.g., backup directories)
+Backup-To-Backblaze/
+
+# Any additional folders
+File-Sorter/

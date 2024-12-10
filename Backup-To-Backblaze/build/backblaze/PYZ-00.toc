@@ -1,2 +1,0 @@
-('C:\\Users\\justi\\Dropbox\\Macros\\Python-Scripts-Collection\\Backup-To-Backblaze\\build\\backblaze\\PYZ-00.pyz',
- [])
